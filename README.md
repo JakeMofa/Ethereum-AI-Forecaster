@@ -1,1 +1,1 @@
-# Etherium-AI-Forecaster
+# Ethereum AI forecaster
